@@ -1,0 +1,72 @@
+C:\Users\Francisco\Desktop\Bots Cafeteria\ClienteCafeteria (Rubia barra) - Gast 5\ClienteCafeteria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Francisco\Desktop\Bots Cafeteria\ClienteCafeteria (Rubia barra) - Gast 5\ClienteCafeteria\bin\Debug\ClienteCafeteria.exe
+C:\Users\Francisco\Desktop\Bots Cafeteria\ClienteCafeteria (Rubia barra) - Gast 5\ClienteCafeteria\bin\Debug\ClienteCafeteria.pdb
+C:\Users\Francisco\Desktop\Bots Cafeteria\ClienteCafeteria (Rubia barra) - Gast 5\ClienteCafeteria\obj\Debug\ClienteCafeteria.exe
+C:\Users\Francisco\Desktop\Bots Cafeteria\ClienteCafeteria (Rubia barra) - Gast 5\ClienteCafeteria\obj\Debug\ClienteCafeteria.pdb
+C:\Users\Francisco\Desktop\Bots Cafeteria\ClienteCafeteria (Rubia barra) - Gast 5\ClienteCafeteria\bin\Debug\OpenMetaverse.StructuredData.dll
+C:\Users\Francisco\Desktop\Bots Cafeteria\ClienteCafeteria (Rubia barra) - Gast 5\ClienteCafeteria\bin\Debug\XMLRPC.dll
+C:\Users\Francisco\Desktop\Bots Cafeteria\ClienteCafeteria (Rubia barra) - Gast 5\ClienteCafeteria\bin\Debug\log4net.dll
+C:\Users\Francisco\Desktop\Bots Cafeteria\ClienteCafeteria (Rubia barra) - Gast 5\ClienteCafeteria\bin\Debug\zlib.net.dll
+C:\Users\Francisco\Desktop\Bots Cafeteria\ClienteCafeteria (Rubia barra) - Gast 5\ClienteCafeteria\bin\Debug\OpenMetaverse.xml
+C:\Users\Francisco\Desktop\Bots Cafeteria\ClienteCafeteria (Rubia barra) - Gast 5\ClienteCafeteria\bin\Debug\OpenMetaverse.StructuredData.xml
+C:\Users\Francisco\Desktop\Bots Cafeteria\ClienteCafeteria (Rubia barra) - Gast 5\ClienteCafeteria\bin\Debug\OpenMetaverseTypes.xml
+C:\OPENSIM\Universidad de Cadiz - Anke - Aleman\Bots Cafeteria\Gast_5\ClienteCafeteria\obj\Debug\ClienteCafeteria.exe
+C:\OPENSIM\Universidad de Cadiz - Anke - Aleman\Bots Cafeteria\Gast_5\ClienteCafeteria\obj\Debug\ClienteCafeteria.pdb
+C:\OPENSIM\Universidad de Cadiz - Anke - Aleman\Bots Cafeteria\Gast_5\ClienteCafeteria\bin\Debug\ClienteCafeteria.exe
+C:\OPENSIM\Universidad de Cadiz - Anke - Aleman\Bots Cafeteria\Gast_5\ClienteCafeteria\bin\Debug\ClienteCafeteria.pdb
+C:\OPENSIM\Universidad de Cadiz - Anke - Aleman\Bots Cafeteria\Gast_5\ClienteCafeteria\bin\Debug\XMLRPC.dll
+C:\OPENSIM\Universidad de Cadiz - Anke - Aleman\Bots Cafeteria\Gast_5\ClienteCafeteria\bin\Debug\log4net.dll
+C:\OPENSIM\Universidad de Cadiz - Anke - Aleman\Bots Cafeteria\Gast_5\ClienteCafeteria\bin\Debug\zlib.net.dll
+C:\OPENSIM\Universidad de Cadiz - Anke - Aleman\Bots Cafeteria\Gast_5\ClienteCafeteria\bin\Debug\OpenMetaverse.StructuredData.dll
+C:\OPENSIM\Universidad de Cadiz - Anke - Aleman\Bots Cafeteria\Gast_5\ClienteCafeteria\bin\Debug\OpenMetaverse.xml
+C:\OPENSIM\Universidad de Cadiz - Anke - Aleman\Bots Cafeteria\Gast_5\ClienteCafeteria\bin\Debug\OpenMetaverse.StructuredData.xml
+C:\OPENSIM\Universidad de Cadiz - Anke - Aleman\Bots Cafeteria\Gast_5\ClienteCafeteria\bin\Debug\OpenMetaverseTypes.xml
+C:\OPENSIM\Universidad de Cadiz - Anke - Aleman\Bots Cafeteria\Gast_5\ClienteCafeteria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\FRAN\Gast_5\ClienteCafeteria\obj\Debug\ClienteCafeteria.exe
+C:\Users\victor\Desktop\FRAN\Gast_5\ClienteCafeteria\obj\Debug\ClienteCafeteria.pdb
+C:\Users\victor\Desktop\FRAN\Gast_5\ClienteCafeteria\bin\Debug\ClienteCafeteria.exe
+C:\Users\victor\Desktop\FRAN\Gast_5\ClienteCafeteria\bin\Debug\ClienteCafeteria.pdb
+C:\Users\victor\Desktop\FRAN\Gast_5\ClienteCafeteria\bin\Debug\XMLRPC.dll
+C:\Users\victor\Desktop\FRAN\Gast_5\ClienteCafeteria\bin\Debug\log4net.dll
+C:\Users\victor\Desktop\FRAN\Gast_5\ClienteCafeteria\bin\Debug\zlib.net.dll
+C:\Users\victor\Desktop\FRAN\Gast_5\ClienteCafeteria\bin\Debug\OpenMetaverse.StructuredData.dll
+C:\Users\victor\Desktop\FRAN\Gast_5\ClienteCafeteria\bin\Debug\OpenMetaverse.xml
+C:\Users\victor\Desktop\FRAN\Gast_5\ClienteCafeteria\bin\Debug\OpenMetaverse.StructuredData.xml
+C:\Users\victor\Desktop\FRAN\Gast_5\ClienteCafeteria\bin\Debug\OpenMetaverseTypes.xml
+C:\Users\victor\Desktop\FRAN\Gast_5\ClienteCafeteria\obj\Debug\ResolveAssemblyReference.cache
+C:\08Bots\Gast_5\ClienteCafeteria\obj\Debug\ClienteCafeteria.exe
+C:\08Bots\Gast_5\ClienteCafeteria\obj\Debug\ClienteCafeteria.pdb
+C:\08Bots\Gast_5\ClienteCafeteria\bin\Debug\ClienteCafeteria.exe
+C:\08Bots\Gast_5\ClienteCafeteria\bin\Debug\ClienteCafeteria.pdb
+C:\08Bots\Gast_5\ClienteCafeteria\bin\Debug\OpenMetaverse.StructuredData.dll
+C:\08Bots\Gast_5\ClienteCafeteria\bin\Debug\XMLRPC.dll
+C:\08Bots\Gast_5\ClienteCafeteria\bin\Debug\log4net.dll
+C:\08Bots\Gast_5\ClienteCafeteria\bin\Debug\zlib.net.dll
+C:\08Bots\Gast_5\ClienteCafeteria\bin\Debug\OpenMetaverse.xml
+C:\08Bots\Gast_5\ClienteCafeteria\bin\Debug\OpenMetaverseTypes.xml
+C:\08Bots\Gast_5\ClienteCafeteria\bin\Debug\OpenMetaverse.StructuredData.xml
+C:\08Bots\Gast_5\ClienteCafeteria\obj\Debug\ClienteCafeteria.csprojResolveAssemblyReference.cache
+C:\08Bots\Gast_1(CopiaGast5)\ClienteCafeteria\obj\Debug\ClienteCafeteria.exe
+C:\08Bots\Gast_1(CopiaGast5)\ClienteCafeteria\obj\Debug\ClienteCafeteria.pdb
+C:\08Bots\Gast_1(CopiaGast5)\ClienteCafeteria\bin\Debug\ClienteCafeteria.exe
+C:\08Bots\Gast_1(CopiaGast5)\ClienteCafeteria\bin\Debug\ClienteCafeteria.pdb
+C:\08Bots\Gast_1(CopiaGast5)\ClienteCafeteria\bin\Debug\OpenMetaverse.StructuredData.dll
+C:\08Bots\Gast_1(CopiaGast5)\ClienteCafeteria\bin\Debug\XMLRPC.dll
+C:\08Bots\Gast_1(CopiaGast5)\ClienteCafeteria\bin\Debug\log4net.dll
+C:\08Bots\Gast_1(CopiaGast5)\ClienteCafeteria\bin\Debug\zlib.net.dll
+C:\08Bots\Gast_1(CopiaGast5)\ClienteCafeteria\bin\Debug\OpenMetaverse.xml
+C:\08Bots\Gast_1(CopiaGast5)\ClienteCafeteria\bin\Debug\OpenMetaverseTypes.xml
+C:\08Bots\Gast_1(CopiaGast5)\ClienteCafeteria\bin\Debug\OpenMetaverse.StructuredData.xml
+C:\08Bots\Gast_1(CopiaGast5)\ClienteCafeteria\obj\Debug\ClienteCafeteria.csprojResolveAssemblyReference.cache
+C:\08Bots\Gast_1\ClienteCafeteria\obj\Debug\ClienteCafeteria.exe
+C:\08Bots\Gast_1\ClienteCafeteria\obj\Debug\ClienteCafeteria.pdb
+C:\08Bots\Gast_1\ClienteCafeteria\bin\Debug\ClienteCafeteria.exe
+C:\08Bots\Gast_1\ClienteCafeteria\bin\Debug\ClienteCafeteria.pdb
+C:\08Bots\Gast_1\ClienteCafeteria\bin\Debug\OpenMetaverse.StructuredData.dll
+C:\08Bots\Gast_1\ClienteCafeteria\bin\Debug\XMLRPC.dll
+C:\08Bots\Gast_1\ClienteCafeteria\bin\Debug\log4net.dll
+C:\08Bots\Gast_1\ClienteCafeteria\bin\Debug\zlib.net.dll
+C:\08Bots\Gast_1\ClienteCafeteria\bin\Debug\OpenMetaverse.xml
+C:\08Bots\Gast_1\ClienteCafeteria\bin\Debug\OpenMetaverseTypes.xml
+C:\08Bots\Gast_1\ClienteCafeteria\bin\Debug\OpenMetaverse.StructuredData.xml
+C:\08Bots\Gast_1\ClienteCafeteria\obj\Debug\ClienteCafeteria.csprojResolveAssemblyReference.cache
