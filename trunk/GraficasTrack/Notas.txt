@@ -1,0 +1,18 @@
+Ubuntu:
+	Linux 3.5.0-51-generic x86_64 x86_64 x86_64 GNU/Linux
+
+Compilador:
+	gcc
+	gcc-4.6
+	gcc-4.6-base
+
+Bibliotecas:
+	libgd2-xpm
+	libgd2-xpm-dev
+	gnuplot
+	gnuplot-nox
+	gnuplot-x11
+	
+Interfaz de GNUPLOT para C++:
+	https://code.google.com/p/gnuplot-cpp/
+	http://www.stahlke.org/dan/gnuplot-iostream/		(No he conseguido hacerla funcionar)
