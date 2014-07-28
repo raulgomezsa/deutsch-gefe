@@ -11,7 +11,7 @@ CC=g++
 all::	grafica
 
 gnuplot_i.o:	gnuplot_i.hpp
-aux2.o:	aux2.hpp
+auxi.o:		auxi.hpp
 grafica.o:	grafica.cpp
 
 grafica: $(EXAMPLE)
