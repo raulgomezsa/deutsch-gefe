@@ -16,3 +16,4 @@ Bibliotecas:
 Interfaz de GNUPLOT para C++:
 	https://code.google.com/p/gnuplot-cpp/
 	http://www.stahlke.org/dan/gnuplot-iostream/		(No he conseguido hacerla funcionar)
+

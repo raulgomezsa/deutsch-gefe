@@ -1715,7 +1715,7 @@ Gnuplot& Gnuplot::set_radial(	const unsigned int x_size,
 {
 	std::ostringstream cmdstr;
 	
-	float grados = 360/x_size;
+	float grados = 360.0/x_size;
 	
 	//
 	// command to be sent to gnuplot
@@ -1738,7 +1738,7 @@ Gnuplot& Gnuplot::set_radial(	const unsigned int x_size,
 	<< "set xtics scale 0" << std::endl
 	//<< "set xtics (\"\" " << to_string(y_max*0.2) << ", \"\" " << to_string(y_max*0.4) << ", \"\" " << to_string(y_max*0.6) << ", \"\" " << to_string(y_max*0.8) << ", \"\" " << to_string(y_max) << ")" << std::endl
 	<< "set xtics (\"\" " << 0.2 << ", \"\" " << 0.4 << ", \"\" " << 0.6 << ", \"\" " << 0.8 << ", \"\" " << 1 << ")" << std::endl
-	<< "set ytics 0, " << to_string(0.2) << ", " << to_string(1.2) << "" << std::endl
+	<< "set ytics 0, " << 0.2 << ", " << 1.2 << "" << std::endl
 
 	<< "set size square" << std::endl
 
